@@ -4,7 +4,7 @@ I'm Antoine, a french IT student at Epitech Paris 🇫🇷.
 
 I have a great interest in Full Stack development, DevOps, Blockchain and Cybersecurity.
 
-I mainly code in Go, Rust, Typescript, React...
+I mainly code in Go, Elixir, Typescript, React...
 
 ### What I'm doing right now?
 

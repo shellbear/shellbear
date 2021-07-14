@@ -6,6 +6,8 @@ I have a great interest in Full Stack development, DevOps, Blockchain and Cybers
 
 I mainly code in Go, Elixir, Typescript, React...
 
+Checkout my website for Blog posts and more about me: https://shellbear.me/
+
 ### What I'm doing right now?
 
 - Freelancer

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antoine, a french IT student at Epitech Paris 🇫🇷.
+I'm Antoine, a french Full-Stack DevOps developer living in Paris 🇫🇷.
 
 I have a great interest in Full Stack development, DevOps, Blockchain and Cybersecurity.
 
@@ -10,8 +10,6 @@ Checkout my website for Blog posts and more about me: https://shellbear.me/
 
 ### What I'm doing right now?
 
-- Freelancer
-- Student at [Chung-Ang](https://neweng.cau.ac.kr/index.do) university, Seoul campus 🇰🇷
 - CTO [Shareview](https://www.shareview.fr/)
 - CTO [Hiddentity](https://hiddentity.fr/)
 - Fulltime Go Backend developper in Paris 🇫🇷

@@ -10,11 +10,11 @@ Checkout my website for Blog posts and more about me: https://shellbear.me/
 
 ### What I'm doing right now?
 
+- CTO [Seconds](https://seconds.link/)
 - CTO [Shareview](https://www.shareview.fr/)
-- CTO [Hiddentity](https://hiddentity.fr/)
-- Fulltime Go Backend developper in Paris 🇫🇷
+- Fulltime FullStack / DevOps consultant in Paris 🇫🇷
 - Working on open source projects during my free time 💻
-- Training to achieve a full Marathon (42.195 KM) 🏃
+- Boxing and Workout 🥊
 
 ### Links
 
